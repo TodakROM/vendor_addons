@@ -93,7 +93,8 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceBlack \
     SystemBlack \
     SysUIBlack \
-    WellbeingBlack
+    WellbeingBlack \
+    WasapOverlay
 
 # QS tile styles
 PRODUCT_PACKAGES += \
