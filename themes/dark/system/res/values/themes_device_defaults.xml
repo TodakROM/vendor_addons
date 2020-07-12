@@ -232,7 +232,6 @@
         <item name="android:colorSecondary">@*android:color/secondary_device_default_settings</item>
         <item name="android:colorAccent">@*android:color/accent_device_default_dark</item>
         <item name="android:colorControlNormal">@*android:color/text_color_primary</item>
-        <item name="android:colorBackgroundFloating">@*android:color/primary_dark_device_default_settings</item>
         <item name="android:alertDialogTheme">@*android:style/CustomThemeDeviceDefaultDialogAlert</item>
         <item name="android:textAppearanceButton">@*android:style/TextAppearance.DeviceDefault.Widget.Button</item>
         <item name="android:buttonCornerRadius">@*android:dimen/config_buttonCornerRadius</item>
@@ -240,7 +239,6 @@
         <item name="*android:colorProgressBackgroundNormal">@*android:color/config_progress_background_tint</item>
         <item name="*android:progressBarCornerRadius">@*android:dimen/config_progressBarCornerRadius</item>
         <item name="android:toolbarStyle">@*android:style/Widget.DeviceDefault.Toolbar</item>
-        <item name="android:panelColorBackground">@*android:color/primary_device_default_dark</item>
         <item name="android:textAppearanceListItem">@*android:style/TextAppearancePreference</item>
         <item name="android:textAppearanceListItemSmall">@*android:style/TextAppearancePreference</item>
     </style>
