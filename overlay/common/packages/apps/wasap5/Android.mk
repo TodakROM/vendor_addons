@@ -3,9 +3,9 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := WasapOverlay
+LOCAL_PACKAGE_NAME := WasapOverlayDark
 LOCAL_SDK_VERSION := current
 LOCAL_CERTIFICATE := platform
-LOCAL_PRIVILEGED_MODULE := false
+LOCAL_PRIVILEGED_MODULE := true
 
 include $(BUILD_PACKAGE)
